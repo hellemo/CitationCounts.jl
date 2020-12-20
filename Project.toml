@@ -1,0 +1,12 @@
+name = "CitationCounts"
+uuid = "ea8a7a70-b73e-47ff-8e2a-21732069c73d"
+authors = ["hellemo "]
+version = "0.1.0"
+
+[deps]
+Bibliography = "f1be7e48-bf82-45af-a471-ae754a193061"
+Cascadia = "54eefc05-d75b-58de-a785-1a3403f0919f"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Gumbo = "708ec375-b3d6-5a57-a7ce-8257bf98657a"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+Markdown = "d6f4376e-aef5-505a-96c1-9c027394607a"
